@@ -1,0 +1,2 @@
+# ToPu_OutlinerMaterialMerge
+blenderの　アウトライナー/blenderファイル　モードで選択したマテリアルを一括で統合してくれるアドオンです。
